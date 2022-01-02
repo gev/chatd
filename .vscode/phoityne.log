@@ -1,0 +1,5 @@
+2021-12-08 00:33:02.663228000000 [59017(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2021-12-08 18:14:37.004709000000 [80553(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2021-12-08 18:15:08.595231000000 [80789(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2021-12-09 16:45:23.112092000000 [93315(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2021-12-09 16:55:30.272308000000 [93705(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
